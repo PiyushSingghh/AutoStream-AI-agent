@@ -8,7 +8,7 @@ Built as part of the ServiceHive - Inflx
 Machine Learning Intern Assignment.
 
 ## Demo Video
-[Click here to watch demo](paste your video link here)
+https://youtu.be/Mt1NsKG5IME
 
 ## Project Structure
 autostream-agent/
